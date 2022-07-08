@@ -1,6 +1,6 @@
 # Coffee-Blog-Website
 ## Required knowledge
-> HTML
-> CSS
-> Javascript
+> HTML <br>
+> CSS   <br>
+> Javascript   <br>
 [link](https://byrayhana.github.io/Coffee-Blog-Website/)
