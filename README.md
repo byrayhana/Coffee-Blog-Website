@@ -3,4 +3,4 @@
 > HTML <br>
 > CSS   <br>
 > Javascript   <br>
-[link](https://byrayhana.github.io/Coffee-Blog-Website/)
+[link to website](https://byrayhana.github.io/Coffee-Blog-Website/)
